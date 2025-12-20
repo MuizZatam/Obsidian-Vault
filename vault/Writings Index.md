@@ -11,13 +11,14 @@ Unless otherwise stated:
 - **Software projects or code** mentioned or published within these writings are licensed separately under the **MIT License**, unless a different license is explicitly noted.
 
 **Exceptions:**  
-CC0 does **not** apply to content that I have quoted, adapted, or incorporated from other sources. Such posts are clearly marked with the **#Non-CC0** tag. Please ensure you have the appropriate rights before reusing that material.
+CC0 does **not** apply to content that I have quoted, adapted, or incorporated from other sources. Such posts are clearly marked with the #Non-CC0 tag. Please ensure you have the appropriate rights before reusing that material. For more information, see [Creative Commons - CC0](https://creativecommons.org/public-domain/cc0/)
 
 For example: _[[A Compilation of the Verses I Love]]_
 
 ___
-## Notes
+## Internal Notes
 1. [[LFS101 Course Notes]]
+2. [[Debian Knowledge Base]]
 ## Technical Blogs
 1. [[Building a CHIP8 Emulator in Rust]]
 2. [[How I Rice my GNU-Linux Desktop]]
