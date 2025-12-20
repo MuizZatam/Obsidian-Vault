@@ -2,6 +2,8 @@
 dg-publish: true
 ---
 # LFS101 Course Notes
+
+#Non-CC0
 ___
 ## 1. Linux Philosophy and Concepts
 
